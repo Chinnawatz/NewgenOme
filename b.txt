@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Create new file name b HBD
+=======
+Create new file name b feature2
+>>>>>>> feature2
